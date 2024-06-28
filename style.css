@@ -1,0 +1,456 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* fon */
+.fon {
+  width: 1520px;
+  height: 1600px;
+  background-color: antiquewhite;
+}
+/* fon */
+
+/* card-1 */
+.card-1 {
+  width: 350px;
+  height: 195px;
+  background-color: white;
+  border-radius: 2px;
+  display: inline-block;
+  margin-top: 150px;
+  margin-left: 20px;
+}
+/* card-1 */
+
+/* distance-text */
+.distance-text {
+  margin: 20px;
+}
+/* distance-text */
+
+/* text-1 */
+.text-1 {
+  padding-bottom: 20px;
+  font-style: italic;
+}
+/* text-1 */
+
+/* naruto */
+.naruto {
+  padding-top: 20px;
+}
+
+/* button-peaksoft */
+.button-peaksoft {
+  width: 300px;
+  height: 18px;
+  color: white;
+  background-color: rgb(32, 32, 185);
+  border: none;
+  border-radius: 5px;
+  transition: 0.40s;
+}
+.button-peaksoft:hover {
+  background-color: white;
+  border: 2px solid;
+  padding-bottom: 25px;
+  color: blue;
+  padding-top: 20px;
+}
+/* button-peaksoft */
+
+/* text-2 */
+.text-2 {
+  color: grey;
+  padding-top: 13px;
+}
+
+/* card-2 */
+.card-2 {
+  width: 360px;
+  height: 380px;
+  background-color: rgb(132, 187, 37);
+  border-radius: 8px;
+  margin-left: 360px;
+  margin-top: -320px;
+}
+/* card-2 */
+
+/* img-1 */
+.img-1 {
+  width: 400px;
+  border-radius: 16px;
+  width: 320px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+/* img-1 */
+
+/* text-emilia */
+.text-emilia {
+  text-align: center;
+  color: rgb(32, 32, 173);
+}
+/* text-emila */
+
+/* text-senior */
+.text-senior {
+  text-align: center;
+  color: blue;
+  margin: 10px;
+}
+/* text-senior */
+
+/* google */
+.google {
+  width: 15px;
+  margin-top: 30px;
+  padding-left: 130px;
+  cursor: pointer;
+}
+/* google */
+
+/* instagram */
+.instagram {
+  width: 15px;
+  margin-top: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+/* instagram */
+
+/* slack */
+.slack {
+  width: 15px;
+  margin-top: 20px;
+  padding-left: 20px;
+  cursor: pointer;
+}
+/* slack */
+
+/* card-3 */
+.card-3 {
+  width: 350px;
+  height: 400px;
+  margin-left: 450px;
+  margin-top: -360px;
+  background-color: grey;
+  transition: all 0.7s;
+  border-radius: 8px;
+}
+.card-3:hover {
+  background-color: rgb(97, 34, 34);
+}
+/* card-3 */
+
+/* img-2 */
+.img-2 {
+  border-radius: 50%;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+/* img-2 */
+
+/* hasan-aka */
+.hasan-aka {
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* hsasan-aka */
+
+/* button-follow */
+.button-follow {
+  width: 100px;
+  height: 30px;
+  color: white;
+  background-color: blue;
+  border: none;
+  cursor: pointer;
+  border-radius: 16px;
+  margin-left: 120px;
+  margin-top: 20px;
+  transition: all 0.4s;
+}
+.button-follow:hover {
+  background-color: rgb(31, 31, 189);
+}
+/* button-follow */
+
+/* card-4 */
+.card-4 {
+  width: 360px;
+  height: 320px;
+  background-color: white;
+  border-radius: 8px;
+  margin-left: -820px;
+  margin-top: 100px;
+}
+/* card-4 */
+
+/* button-feature */
+.button-feature {
+  color: #8A2BE2;
+  margin: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  width: 65px;
+  height: 26px;
+  background-color: rgb(231, 220, 220);
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  transition: all 0.4s;
+}
+.button-feature:hover {
+  opacity: 0.7;
+}
+/* button-feature */
+
+/* text-h2 */
+.text-h2 {
+  margin: 20px;
+  margin-top: -10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* text-h2 */
+
+
+/* text-p */
+.text-p {
+  color: grey;
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* text-p */
+
+/* button-more */
+.button-more {
+  width: 150px;
+  height: 35px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 1px solid grey;
+  margin: 12px;
+  margin-top: -1px;
+  margin-left: 20px;
+  border-style: 1px;
+  transition: all 0.4s;
+  color: #8A2BE2;
+}
+.button-more:hover {
+  background-color: rgb(185, 180, 180);
+  opacity: 1s;
+}
+/* button-more */
+
+/* card-5 */
+.card-5 {
+  width: 360px;
+  height: 270px;
+  background-color: white;
+  margin-left: 380px;
+  margin-top: -257px;
+  border-radius: 8px;
+}
+/* card-5 */
+
+/* text-the */
+.text-the {
+  margin: 20px;
+  margin-top: -10px;
+}
+/* text-the */
+
+/* text-lorem */
+.text-lorem {
+  margin: 20px;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* text-lorem */
+
+/* number */
+.number {
+  width: 100px;
+  height: 50px;
+  background-color: purple;
+  border-radius: 8px;
+  margin: 15px;
+}
+
+.num-1 {
+  color: #8A2BE2;
+  margin: 10px;
+  margin-top: -10px;
+}
+
+.satisfaction {
+  margin: 10px;
+  color: rgb(177, 172, 177);
+}
+/* number */
+
+/* number-two */
+.number-two {
+  width: 100px;
+  height: 50px;
+  background-color: purple;
+  border-radius: 8px;
+  margin: 15px;
+  margin-left: 120px;
+  margin-top: -56px;
+}
+
+.four-five {
+  margin: 10px;
+  color: #8A2BE2;
+}
+
+.customers {
+  margin: 10px;
+  color: rgb(177, 172, 172);
+}
+/* number-two */
+
+/* card-6 */
+.card-6 {
+  width: 600px;
+  height: 670px;
+  border: 5px solid black;
+  border-radius: 8px;
+  background-color: #179494;
+  margin-left: -170px;
+  margin-top: 150px;
+}
+
+.chymchyk {
+  width: 600px;
+  height: 350px;
+}
+
+.text-aspect {
+  margin: 20px;
+}
+
+.text-lorem2 {
+  margin: 20px;
+  color: rgb(38, 38, 152);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-lorem3 {
+  margin: 20px;
+  color: rgb(32, 32, 179);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-read {
+  width: 150px;
+  height: 40px;
+  color: rgb(38, 126, 126);
+  background-color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  border: 5px solid black;
+  margin: 20px;
+  margin-top: -20px;
+  transition: all 0.4s;
+}
+.button-read:hover {
+  background-color: rgb(38, 126, 126);
+  color: white;
+}
+/* card-6 */
+
+/* card-7 */
+.card-7 {
+  width: 230px;
+  height: 290px;
+  background-color: whitesmoke;
+  margin-top: -24px;
+  margin-left: -300px;
+  box-shadow: 0px 0px 5px 0px green;
+}
+
+
+.img-photo {
+  width: 230px;
+  margin-top: 200px;
+  margin-left: -300px;
+}
+
+
+.text-this {
+  margin: 20px;
+  color: rgb(24, 177, 24);
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.lorem-text {
+  margin: 20px;
+  color: rgb(31, 31, 184);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.read-more {
+  margin: 20px;
+  color: rgb(63, 164, 63);
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}.read-more:hover {
+  color: green;
+}
+
+.card-8 {
+  width: 400px;
+  height: 250px;
+  margin-left: 250px;
+  margin-top: -250px;
+  border-radius: 16px;
+  background-color: black;
+}
+
+.font-size {
+  color: white;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 20px;
+  padding-top: 20px;
+}
+
+.start {
+  color: white;
+  font-size: 25px;
+  margin: 20px;
+  margin-top: -10px;
+}
+
+.date {
+  color: yellow;
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.table {
+  width: 1450px;
+  height: 240px;
+  border: 2px solid;
+  margin-top: 30px;
+  margin-left: -290px;
+  border-radius: 6px;
+  border: 3px solid grey;
+}
+
+.table-1 {
+  width: 1370px;
+  height: 50px;
+  border: 2px solid grey;
+  margin-left: 25px;
+  border-radius: 4px;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+} 
